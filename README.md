@@ -1,7 +1,7 @@
-# HarDNet-MSEG
+# Polyp Segmentation 
 # **Any question? Contact me via Facebook link on Profile Page. I'm willing to share any time**
 
-A Streamlit Web application to demonstrate Polyp Segmentation by HarDNet-MSEG
+A Streamlit Web application to demonstrate Polyp Segmentation using HarDNet-MSEG
 
 Here the web demo video: 
 
